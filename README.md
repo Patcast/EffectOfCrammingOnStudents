@@ -1,3 +1,5 @@
-# firstTime
+# fEffect of cramming on Students
 
-PerroCreador here wassup!
+Short notebook that visualizes a data set that reflects the effect on cramming on students.  
+
+
